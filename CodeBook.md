@@ -18,6 +18,7 @@ activityId"                      "subjectId"
 "activity"                       
 
 Activity Labels
+
 WALKING (value 1): subject was walking during the test
 
 WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
